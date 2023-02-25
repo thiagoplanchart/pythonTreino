@@ -3,7 +3,7 @@
 # listaNumeros = []
 # print ('Informe os 5 numeros')
 # for i in range(5):
-# 	listaNumero.append(input('Numero '+ str(i+1) + ':\n'))
+# 	listaNumeros.append(input('Numero '+ str(i+1) + ':\n'))
 # print (listaNumeros) 
 
 #2) Faça um Programa que leia uma lista de 10 números reais e mostre-os na ordem inversa.
